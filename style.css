@@ -8,3 +8,36 @@ p {
   color: gold;
   background-color: black;
 }
+#sbXLIII {
+float: Ieft;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+}
+#sbIX {
+float: Right;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+}
+#sbXIII {
+  float: Left;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+}
+#sbXL {
+float: right;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+}
+#sbX {
+  float: Left;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+}
+
+
+
