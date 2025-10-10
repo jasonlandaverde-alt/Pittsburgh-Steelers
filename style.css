@@ -15,25 +15,31 @@ height: 100%;
 padding-bottom: 50px;
 }
 #sbIX {
-float: Right;
+  float: Right;
+display: inline-flex;
+height: 100%;
+padding-bottom: 50px;
+
+#sbIX {
+float: Left;
 display: inline-flex;
 height: 100%;
 padding-bottom: 50px;
 }
 #sbXIII {
-  float: Left;
+  float: Right;
 display: inline-flex;
 height: 100%;
 padding-bottom: 50px;
 }
 #sbXL {
-float: right;
+float: Left;
 display: inline-flex;
 height: 100%;
 padding-bottom: 50px;
 }
 #sbX {
-  float: Left;
+  float: Right;
 display: inline-flex;
 height: 100%;
 padding-bottom: 50px;
