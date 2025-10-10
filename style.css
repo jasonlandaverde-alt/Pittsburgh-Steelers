@@ -9,40 +9,40 @@ p {
   background-color: black;
 }
 #sbXLIII {
-float: left;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  float: left;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 }
 #sbXIV {
   float: right;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 
 #sbIX {
-float: left;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  float: left;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 }
 #sbXIII {
   float: right;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 }
 #sbXL {
-float: left;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  float: left;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 }
 #sbX {
   float: right;
-display: inline-flex;
-height: 100%;
-padding-bottom: 50px;
+  display: inline-flex;
+  height: 100%;
+  padding-bottom: 50px;
 }
 
 
